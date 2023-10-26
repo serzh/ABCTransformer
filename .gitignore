@@ -1,0 +1,7 @@
+data/*
+**/*.pyc
+corpus.npz
+checkpoint*
+itos.pkl
+.DS_Store
+music-log.json
